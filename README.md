@@ -5,7 +5,7 @@
 ## 🌐 Contact
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU-PERFIL](https://www.linkedin.com/in/alejandro-martínez-iñiguez-313286399/">
+  <a href="https://www.linkedin.com/in/alejandro-martínez-iñiguez-313286399/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:martineziniguezalejandro@gmail.com">
