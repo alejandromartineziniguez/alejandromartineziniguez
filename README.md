@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Alejandro Martínez</h1>
+<h1>Hi 👋, I'm Alejandro Martínez</h1>
 
-<h3 align="center">🎓 I'm currently studying Web Development</h3>
+<h3>🎓 I'm currently studying Web Development</h3>
 
 ## 🌐 Contact
 
